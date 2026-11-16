@@ -35,7 +35,7 @@ No ads, no sign-up, no tracking cookies. Everything runs in your browser. We onl
 ☕ [Buy Me a Coffee](https://buymeacoffee.com/meridius) · 💬 [Feedback](https://github.com/meridi-support/meridi-square/discussions)
 
 ## Other tools by Meridi Brand
-📅 [MeridiMeet](https://meridibrand.com/meet/) · 🐾 [MeridiLingo](https://meridibrand.com/lingo/) · 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) · 🌌 [MeridiStars](https://meridibrand.com/stars/) · 🌊 [MeridiDepths](https://meridibrand.com/depths/) · 🎮 [MeridiPlay](https://meridibrand.com/play/) · 🧮 [MeridiConvert](https://meridibrand.com/convert/)
+📅 [MeridiMeet](https://meridibrand.com/meet/) · 🐾 [MeridiLingo](https://meridibrand.com/lingo/) · 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) · 🌌 [MeridiStars](https://meridibrand.com/stars/) · 🌊 [MeridiDepths](https://meridibrand.com/depths/) · 🎮 [MeridiPlay](https://meridibrand.com/play/) · 🧮 [MeridiConvert](https://meridibrand.com/convert/) · 🧰 [Meridi Tools](https://meridibrand.com/tools/)
 
 ## Changelog
 ### 🪨 v1.0.0 — 2026-11-13
